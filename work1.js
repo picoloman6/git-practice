@@ -11,5 +11,5 @@ const example = () => {
 };
 
 const count = (number) => {
-  console.log(number);
+  console.log("숫자 : ", number);
 };
