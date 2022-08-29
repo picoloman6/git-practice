@@ -9,3 +9,7 @@ const sum = (...numbers) => {
 const example = () => {
   console.log("연습용입니다.");
 };
+
+const count = (number) => {
+  console.log(number);
+};
